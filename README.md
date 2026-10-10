@@ -22,8 +22,7 @@
 </p>
 
 ## About Me
-
-I'm a BCA student at **CHARUSAT University** who likes finding out how software, networks, devices, and intelligent systems work underneath the surface. I learn best by trying things on real setups, breaking them in a controlled way, and writing down what happened.
+Curious Learner
 
 - **Cybersecurity & networking:** Linux, scanning, enumeration, and web-security labs, done only on systems I own or am authorized to test.
 - **IoT & embedded systems:** an ESP32 board, the Arduino IDE, and a lot of troubleshooting (USB ports, firmware uploads, Wi-Fi behavior).
@@ -178,8 +177,443 @@ The same source is also saved as README.md.
 - Nothing is labelled "Built and verified". I couldn't confirm any end-to-end working project from what you gave me.
 
 **Still to verify**
-- I didn't load any of the external URLs, so none are verified. After you push the README, check that the Capsule Render lines, the GitHub stats card, and the streak card all render. The `github-readme-stats.vercel.app` public instance is sometimes rate-limited, so the card may need a refresh or your own deployment.
-- Shields.io logos: `kalilinux`, `burpsuite`, `espressif`, `n8n`, and the others use Simple Icons names, which I haven't confirmed. A missing logo only shows the text badge and won't break the image. Nmap and the AI items have no logo on purpose.
-- Add links to your repos or lab write-ups under each project as they exist.
-- The repo must be named exactly `Aaryan1809/Aaryan1809` and be public for the README to show on your profile.
-- I couldn't inspect your public repositories, so everything comes from your brief. If any repo contradicts it, trust the repo and adjust the README.
+
+## Achievements
+
+| | |
+|---|---|
+| 🥇 | **First place**, Tech Tonic hackathon, with the **FoodLink** project |
+| 🎯 | IoT concept selected for the **Round-II budget-negotiation stage**, CHARUSAT SSIP Pitching 2026-27 |
+| 🛠️ | Participated in the **Odoo hackathon at IIT Gandhinagar** |
+| ⏱️ | Completed the **12-hour Hack Baroda hackathon** |
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2" width="100%" alt="" />
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aaryan1809&show_icons=true&theme=tokyonight&hide_border=true" alt="Aaryan1809 GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Aaryan1809&theme=tokyonight&hide_border=true" alt="Aaryan1809 GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2" width="100%" alt="" />
+</p>
+
+<p align="center">
+  <i>Test carefully. Build deliberately. Document honestly.</i>
+</p>
+
+<p align="center">
+  <sub>Cybersecurity • Embedded Systems • Applied AI</sub>
+</p>
+```
+
+The same source is also saved as README.md.
+
+**Design choices**
+- **Structure:** a centered header and short sections divided by thin cyan-to-violet lines, following Jeet's layout (Reference B). Jenil's polish (Reference C) shows up as categorized badges, project cards with status labels, and a dark `tokyonight` stats theme.
+- **Footprint:** three Capsule Render lines (6px and 2px) are the only decoration. I left out a big banner, a snake, visitor counters, and animation.
+- **Badges:** a dark `0D1117` background with cyan icons for security and programming and violet for IoT and AI. That keeps them consistent and readable, and none of them are web-dev tools.
+- **Honesty:** each project has a status badge and a short "not built yet" line. I included your failed CSI attempt as an honest, credible detail. The Applied AI group is labelled as exploration, and the README says this is API orchestration, not ML training.
+- **Omissions:** no pricing, no web projects, no LinkedIn or portfolio link, and no vsftpd mention. Metasploitable appears only as a practice environment.
+- **Mobile:** badges wrap naturally. The two stat cards sit side by side at a fixed height and stack on narrow screens.
+
+**Status labels**
+- **Prototype:** ESP32 Smart Sensing Lab (hardware experiments plus the architecture concept).
+- **Exploring / ongoing learning:** LLM-Assisted Workflow Automation and Cybersecurity Lab Journal.
+- **Planned / early experiment:** Android / Termux Home File Server and the IoT Anomaly Detection roadmap idea.
+- Nothing is labelled "Built and verified". I couldn't confirm any end-to-end working project from what you gave me.
+
+**Still to verify**
+
+## Achievements
+
+| | |
+|---|---|
+| 🥇 | **First place**, Tech Tonic hackathon, with the **FoodLink** project |
+| 🎯 | IoT concept selected for the **Round-II budget-negotiation stage**, CHARUSAT SSIP Pitching 2026-27 |
+| 🛠️ | Participated in the **Odoo hackathon at IIT Gandhinagar** |
+| ⏱️ | Completed the **12-hour Hack Baroda hackathon** |
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2" width="100%" alt="" />
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aaryan1809&show_icons=true&theme=tokyonight&hide_border=true" alt="Aaryan1809 GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Aaryan1809&theme=tokyonight&hide_border=true" alt="Aaryan1809 GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2" width="100%" alt="" />
+</p>
+
+<p align="center">
+  <i>Test carefully. Build deliberately. Document honestly.</i>
+</p>
+
+<p align="center">
+  <sub>Cybersecurity • Embedded Systems • Applied AI</sub>
+</p>
+```
+
+The same source is also saved as README.md.
+
+**Design choices**
+- **Structure:** a centered header and short sections divided by thin cyan-to-violet lines, following Jeet's layout (Reference B). Jenil's polish (Reference C) shows up as categorized badges, project cards with status labels, and a dark `tokyonight` stats theme.
+- **Footprint:** three Capsule Render lines (6px and 2px) are the only decoration. I left out a big banner, a snake, visitor counters, and animation.
+- **Badges:** a dark `0D1117` background with cyan icons for security and programming and violet for IoT and AI. That keeps them consistent and readable, and none of them are web-dev tools.
+- **Honesty:** each project has a status badge and a short "not built yet" line. I included your failed CSI attempt as an honest, credible detail. The Applied AI group is labelled as exploration, and the README says this is API orchestration, not ML training.
+- **Omissions:** no pricing, no web projects, no LinkedIn or portfolio link, and no vsftpd mention. Metasploitable appears only as a practice environment.
+- **Mobile:** badges wrap naturally. The two stat cards sit side by side at a fixed height and stack on narrow screens.
+
+**Status labels**
+- **Prototype:** ESP32 Smart Sensing Lab (hardware experiments plus the architecture concept).
+- **Exploring / ongoing learning:** LLM-Assisted Workflow Automation and Cybersecurity Lab Journal.
+- **Planned / early experiment:** Android / Termux Home File Server and the IoT Anomaly Detection roadmap idea.
+- Nothing is labelled "Built and verified". I couldn't confirm any end-to-end working project from what you gave me.
+
+**Still to verify**
+
+## Achievements
+
+| | |
+|---|---|
+| 🥇 | **First place**, Tech Tonic hackathon, with the **FoodLink** project |
+| 🎯 | IoT concept selected for the **Round-II budget-negotiation stage**, CHARUSAT SSIP Pitching 2026-27 |
+| 🛠️ | Participated in the **Odoo hackathon at IIT Gandhinagar** |
+| ⏱️ | Completed the **12-hour Hack Baroda hackathon** |
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2" width="100%" alt="" />
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aaryan1809&show_icons=true&theme=tokyonight&hide_border=true" alt="Aaryan1809 GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Aaryan1809&theme=tokyonight&hide_border=true" alt="Aaryan1809 GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2" width="100%" alt="" />
+</p>
+
+<p align="center">
+  <i>Test carefully. Build deliberately. Document honestly.</i>
+</p>
+
+<p align="center">
+  <sub>Cybersecurity • Embedded Systems • Applied AI</sub>
+</p>
+```
+
+The same source is also saved as README.md.
+
+**Design choices**
+- **Structure:** a centered header and short sections divided by thin cyan-to-violet lines, following Jeet's layout (Reference B). Jenil's polish (Reference C) shows up as categorized badges, project cards with status labels, and a dark `tokyonight` stats theme.
+- **Footprint:** three Capsule Render lines (6px and 2px) are the only decoration. I left out a big banner, a snake, visitor counters, and animation.
+- **Badges:** a dark `0D1117` background with cyan icons for security and programming and violet for IoT and AI. That keeps them consistent and readable, and none of them are web-dev tools.
+- **Honesty:** each project has a status badge and a short "not built yet" line. I included your failed CSI attempt as an honest, credible detail. The Applied AI group is labelled as exploration, and the README says this is API orchestration, not ML training.
+- **Omissions:** no pricing, no web projects, no LinkedIn or portfolio link, and no vsftpd mention. Metasploitable appears only as a practice environment.
+- **Mobile:** badges wrap naturally. The two stat cards sit side by side at a fixed height and stack on narrow screens.
+
+**Status labels**
+- **Prototype:** ESP32 Smart Sensing Lab (hardware experiments plus the architecture concept).
+- **Exploring / ongoing learning:** LLM-Assisted Workflow Automation and Cybersecurity Lab Journal.
+- **Planned / early experiment:** Android / Termux Home File Server and the IoT Anomaly Detection roadmap idea.
+- Nothing is labelled "Built and verified". I couldn't confirm any end-to-end working project from what you gave me.
+
+**Still to verify**
+
+## Achievements
+
+| | |
+|---|---|
+| 🥇 | **First place**, Tech Tonic hackathon, with the **FoodLink** project |
+| 🎯 | IoT concept selected for the **Round-II budget-negotiation stage**, CHARUSAT SSIP Pitching 2026-27 |
+| 🛠️ | Participated in the **Odoo hackathon at IIT Gandhinagar** |
+| ⏱️ | Completed the **12-hour Hack Baroda hackathon** |
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2" width="100%" alt="" />
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aaryan1809&show_icons=true&theme=tokyonight&hide_border=true" alt="Aaryan1809 GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Aaryan1809&theme=tokyonight&hide_border=true" alt="Aaryan1809 GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2" width="100%" alt="" />
+</p>
+
+<p align="center">
+  <i>Test carefully. Build deliberately. Document honestly.</i>
+</p>
+
+<p align="center">
+  <sub>Cybersecurity • Embedded Systems • Applied AI</sub>
+</p>
+```
+
+The same source is also saved as README.md.
+
+**Design choices**
+- **Structure:** a centered header and short sections divided by thin cyan-to-violet lines, following Jeet's layout (Reference B). Jenil's polish (Reference C) shows up as categorized badges, project cards with status labels, and a dark `tokyonight` stats theme.
+- **Footprint:** three Capsule Render lines (6px and 2px) are the only decoration. I left out a big banner, a snake, visitor counters, and animation.
+- **Badges:** a dark `0D1117` background with cyan icons for security and programming and violet for IoT and AI. That keeps them consistent and readable, and none of them are web-dev tools.
+- **Honesty:** each project has a status badge and a short "not built yet" line. I included your failed CSI attempt as an honest, credible detail. The Applied AI group is labelled as exploration, and the README says this is API orchestration, not ML training.
+- **Omissions:** no pricing, no web projects, no LinkedIn or portfolio link, and no vsftpd mention. Metasploitable appears only as a practice environment.
+- **Mobile:** badges wrap naturally. The two stat cards sit side by side at a fixed height and stack on narrow screens.
+
+**Status labels**
+- **Prototype:** ESP32 Smart Sensing Lab (hardware experiments plus the architecture concept).
+- **Exploring / ongoing learning:** LLM-Assisted Workflow Automation and Cybersecurity Lab Journal.
+- **Planned / early experiment:** Android / Termux Home File Server and the IoT Anomaly Detection roadmap idea.
+- Nothing is labelled "Built and verified". I couldn't confirm any end-to-end working project from what you gave me.
+
+**Still to verify**
+
+## Achievements
+
+| | |
+|---|---|
+| 🥇 | **First place**, Tech Tonic hackathon, with the **FoodLink** project |
+| 🎯 | IoT concept selected for the **Round-II budget-negotiation stage**, CHARUSAT SSIP Pitching 2026-27 |
+| 🛠️ | Participated in the **Odoo hackathon at IIT Gandhinagar** |
+| ⏱️ | Completed the **12-hour Hack Baroda hackathon** |
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2" width="100%" alt="" />
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aaryan1809&show_icons=true&theme=tokyonight&hide_border=true" alt="Aaryan1809 GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Aaryan1809&theme=tokyonight&hide_border=true" alt="Aaryan1809 GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2" width="100%" alt="" />
+</p>
+
+<p align="center">
+  <i>Test carefully. Build deliberately. Document honestly.</i>
+</p>
+
+<p align="center">
+  <sub>Cybersecurity • Embedded Systems • Applied AI</sub>
+</p>
+```
+
+The same source is also saved as README.md.
+
+**Design choices**
+- **Structure:** a centered header and short sections divided by thin cyan-to-violet lines, following Jeet's layout (Reference B). Jenil's polish (Reference C) shows up as categorized badges, project cards with status labels, and a dark `tokyonight` stats theme.
+- **Footprint:** three Capsule Render lines (6px and 2px) are the only decoration. I left out a big banner, a snake, visitor counters, and animation.
+- **Badges:** a dark `0D1117` background with cyan icons for security and programming and violet for IoT and AI. That keeps them consistent and readable, and none of them are web-dev tools.
+- **Honesty:** each project has a status badge and a short "not built yet" line. I included your failed CSI attempt as an honest, credible detail. The Applied AI group is labelled as exploration, and the README says this is API orchestration, not ML training.
+- **Omissions:** no pricing, no web projects, no LinkedIn or portfolio link, and no vsftpd mention. Metasploitable appears only as a practice environment.
+- **Mobile:** badges wrap naturally. The two stat cards sit side by side at a fixed height and stack on narrow screens.
+
+**Status labels**
+- **Prototype:** ESP32 Smart Sensing Lab (hardware experiments plus the architecture concept).
+- **Exploring / ongoing learning:** LLM-Assisted Workflow Automation and Cybersecurity Lab Journal.
+- **Planned / early experiment:** Android / Termux Home File Server and the IoT Anomaly Detection roadmap idea.
+- Nothing is labelled "Built and verified". I couldn't confirm any end-to-end working project from what you gave me.
+
+**Still to verify**
+
+## Achievements
+
+| | |
+|---|---|
+| 🥇 | **First place**, Tech Tonic hackathon, with the **FoodLink** project |
+| 🎯 | IoT concept selected for the **Round-II budget-negotiation stage**, CHARUSAT SSIP Pitching 2026-27 |
+| 🛠️ | Participated in the **Odoo hackathon at IIT Gandhinagar** |
+| ⏱️ | Completed the **12-hour Hack Baroda hackathon** |
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2" width="100%" alt="" />
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aaryan1809&show_icons=true&theme=tokyonight&hide_border=true" alt="Aaryan1809 GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Aaryan1809&theme=tokyonight&hide_border=true" alt="Aaryan1809 GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2" width="100%" alt="" />
+</p>
+
+<p align="center">
+  <i>Test carefully. Build deliberately. Document honestly.</i>
+</p>
+
+<p align="center">
+  <sub>Cybersecurity • Embedded Systems • Applied AI</sub>
+</p>
+```
+
+The same source is also saved as README.md.
+
+**Design choices**
+- **Structure:** a centered header and short sections divided by thin cyan-to-violet lines, following Jeet's layout (Reference B). Jenil's polish (Reference C) shows up as categorized badges, project cards with status labels, and a dark `tokyonight` stats theme.
+- **Footprint:** three Capsule Render lines (6px and 2px) are the only decoration. I left out a big banner, a snake, visitor counters, and animation.
+- **Badges:** a dark `0D1117` background with cyan icons for security and programming and violet for IoT and AI. That keeps them consistent and readable, and none of them are web-dev tools.
+- **Honesty:** each project has a status badge and a short "not built yet" line. I included your failed CSI attempt as an honest, credible detail. The Applied AI group is labelled as exploration, and the README says this is API orchestration, not ML training.
+- **Omissions:** no pricing, no web projects, no LinkedIn or portfolio link, and no vsftpd mention. Metasploitable appears only as a practice environment.
+- **Mobile:** badges wrap naturally. The two stat cards sit side by side at a fixed height and stack on narrow screens.
+
+**Status labels**
+- **Prototype:** ESP32 Smart Sensing Lab (hardware experiments plus the architecture concept).
+- **Exploring / ongoing learning:** LLM-Assisted Workflow Automation and Cybersecurity Lab Journal.
+- **Planned / early experiment:** Android / Termux Home File Server and the IoT Anomaly Detection roadmap idea.
+- Nothing is labelled "Built and verified". I couldn't confirm any end-to-end working project from what you gave me.
+
+**Still to verify**
+
+## Achievements
+
+| | |
+|---|---|
+| 🥇 | **First place**, Tech Tonic hackathon, with the **FoodLink** project |
+| 🎯 | IoT concept selected for the **Round-II budget-negotiation stage**, CHARUSAT SSIP Pitching 2026-27 |
+| 🛠️ | Participated in the **Odoo hackathon at IIT Gandhinagar** |
+| ⏱️ | Completed the **12-hour Hack Baroda hackathon** |
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2" width="100%" alt="" />
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aaryan1809&show_icons=true&theme=tokyonight&hide_border=true" alt="Aaryan1809 GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Aaryan1809&theme=tokyonight&hide_border=true" alt="Aaryan1809 GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2" width="100%" alt="" />
+</p>
+
+<p align="center">
+  <i>Test carefully. Build deliberately. Document honestly.</i>
+</p>
+
+<p align="center">
+  <sub>Cybersecurity • Embedded Systems • Applied AI</sub>
+</p>
+```
+
+The same source is also saved as README.md.
+
+**Design choices**
+- **Structure:** a centered header and short sections divided by thin cyan-to-violet lines, following Jeet's layout (Reference B). Jenil's polish (Reference C) shows up as categorized badges, project cards with status labels, and a dark `tokyonight` stats theme.
+- **Footprint:** three Capsule Render lines (6px and 2px) are the only decoration. I left out a big banner, a snake, visitor counters, and animation.
+- **Badges:** a dark `0D1117` background with cyan icons for security and programming and violet for IoT and AI. That keeps them consistent and readable, and none of them are web-dev tools.
+- **Honesty:** each project has a status badge and a short "not built yet" line. I included your failed CSI attempt as an honest, credible detail. The Applied AI group is labelled as exploration, and the README says this is API orchestration, not ML training.
+- **Omissions:** no pricing, no web projects, no LinkedIn or portfolio link, and no vsftpd mention. Metasploitable appears only as a practice environment.
+- **Mobile:** badges wrap naturally. The two stat cards sit side by side at a fixed height and stack on narrow screens.
+
+**Status labels**
+- **Prototype:** ESP32 Smart Sensing Lab (hardware experiments plus the architecture concept).
+- **Exploring / ongoing learning:** LLM-Assisted Workflow Automation and Cybersecurity Lab Journal.
+- **Planned / early experiment:** Android / Termux Home File Server and the IoT Anomaly Detection roadmap idea.
+- Nothing is labelled "Built and verified". I couldn't confirm any end-to-end working project from what you gave me.
+
+**Still to verify**
+
+## Achievements
+
+| | |
+|---|---|
+| 🥇 | **First place**, Tech Tonic hackathon, with the **FoodLink** project |
+| 🎯 | IoT concept selected for the **Round-II budget-negotiation stage**, CHARUSAT SSIP Pitching 2026-27 |
+| 🛠️ | Participated in the **Odoo hackathon at IIT Gandhinagar** |
+| ⏱️ | Completed the **12-hour Hack Baroda hackathon** |
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2" width="100%" alt="" />
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aaryan1809&show_icons=true&theme=tokyonight&hide_border=true" alt="Aaryan1809 GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Aaryan1809&theme=tokyonight&hide_border=true" alt="Aaryan1809 GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2" width="100%" alt="" />
+</p>
+
+<p align="center">
+  <i>Test carefully. Build deliberately. Document honestly.</i>
+</p>
+
+<p align="center">
+  <sub>Cybersecurity • Embedded Systems • Applied AI</sub>
+</p>
+```
+
+The same source is also saved as README.md.
+
+**Design choices**
+- **Structure:** a centered header and short sections divided by thin cyan-to-violet lines, following Jeet's layout (Reference B). Jenil's polish (Reference C) shows up as categorized badges, project cards with status labels, and a dark `tokyonight` stats theme.
+- **Footprint:** three Capsule Render lines (6px and 2px) are the only decoration. I left out a big banner, a snake, visitor counters, and animation.
+- **Badges:** a dark `0D1117` background with cyan icons for security and programming and violet for IoT and AI. That keeps them consistent and readable, and none of them are web-dev tools.
+- **Honesty:** each project has a status badge and a short "not built yet" line. I included your failed CSI attempt as an honest, credible detail. The Applied AI group is labelled as exploration, and the README says this is API orchestration, not ML training.
+- **Omissions:** no pricing, no web projects, no LinkedIn or portfolio link, and no vsftpd mention. Metasploitable appears only as a practice environment.
+- **Mobile:** badges wrap naturally. The two stat cards sit side by side at a fixed height and stack on narrow screens.
+
+**Status labels**
+- **Prototype:** ESP32 Smart Sensing Lab (hardware experiments plus the architecture concept).
+- **Exploring / ongoing learning:** LLM-Assisted Workflow Automation and Cybersecurity Lab Journal.
+- **Planned / early experiment:** Android / Termux Home File Server and the IoT Anomaly Detection roadmap idea.
+- Nothing is labelled "Built and verified". I couldn't confirm any end-to-end working project from what you gave me.
+
+**Still to verify**
+
+## Achievements
+
+| | |
+|---|---|
+| 🥇 | **First place**, Tech Tonic hackathon, with the **FoodLink** project |
+| 🎯 | IoT concept selected for the **Round-II budget-negotiation stage**, CHARUSAT SSIP Pitching 2026-27 |
+| 🛠️ | Participated in the **Odoo hackathon at IIT Gandhinagar** |
+| ⏱️ | Completed the **12-hour Hack Baroda hackathon** |
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2" width="100%" alt="" />
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aaryan1809&show_icons=true&theme=tokyonight&hide_border=true" alt="Aaryan1809 GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Aaryan1809&theme=tokyonight&hide_border=true" alt="Aaryan1809 GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2" width="100%" alt="" />
+</p>
+
+<p align="center">
+  <i>Test carefully. Build deliberately. Document honestly.</i>
+</p>
+
+<p align="center">
+  <sub>Cybersecurity • Embedded Systems • Applied AI</sub>
+</p>
