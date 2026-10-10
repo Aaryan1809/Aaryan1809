@@ -22,7 +22,8 @@
 </p>
 
 ## About Me
-Curious Learner
+
+I'm a BCA student at **CHARUSAT University** who likes finding out how software, networks, devices, and intelligent systems work underneath the surface. I learn best by trying things on real setups, breaking them in a controlled way, and writing down what happened.
 
 - **Cybersecurity & networking:** Linux, scanning, enumeration, and web-security labs, done only on systems I own or am authorized to test.
 - **IoT & embedded systems:** an ESP32 board, the Arduino IDE, and a lot of troubleshooting (USB ports, firmware uploads, Wi-Fi behavior).
@@ -78,7 +79,8 @@ A growing collection of notes from controlled lab environments: reproducible ste
 - Topics: Linux and networking exercises, reconnaissance, scanning, enumeration, vulnerability analysis, and basic Python networking scripts (including TCP client/server and network discovery).
 - Environments: TryHackMe, PortSwigger Web Security Academy, and intentionally vulnerable practice machines such as Metasploitable.
 - Tools studied or used: Kali Linux, Nmap, Burp Suite, Metasploit Framework.
-- Ground rules: authorized, legal testing only, on systems I own or have permission to assess. I'll link individual write-ups here as they're published.
+- Study reference: I keep a fork of [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) to follow along with. That curriculum is the original author's work, not mine.
+- Ground rules: authorized, legal testing only, on systems I own or have permission to assess. My own write-ups will be linked here as they're published.
 
 `Kali Linux` `Nmap` `Burp Suite` `Metasploit` `PortSwigger Academy` `TryHackMe`
 
@@ -158,4 +160,3 @@ Tools I have studied or used while learning. This is a list of exposure, not cla
 <p align="center">
   <sub>Cybersecurity • Embedded Systems • Applied AI</sub>
 </p>
-```
