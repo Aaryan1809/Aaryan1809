@@ -3,7 +3,7 @@
 Breaks things. rebuild them. Occasionally questions everything at 3 AM.
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Aaryan1809/bg.svg" alt="Profile views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=Aaryan1809&label=PROFILE+VIEWS&labelColor=%23555555&countColor=%230A66C2&style=flat-square" alt="Visitor Badge" />
   <img src="https://img.shields.io/github/followers/Aaryan1809?style=flat-square&color=blue&label=Followers" alt="Followers" />
 </div>
 
