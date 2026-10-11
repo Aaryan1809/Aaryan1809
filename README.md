@@ -2,10 +2,10 @@
 
 Breaks things. rebuild them. Occasionally questions everything at 3 AM.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aaryan1809&style=flat-square" alt="Profile view counter" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aaryan1809" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Aaryan1809?style=flat-square&color=blue&label=Followers" alt="Followers" />
-</p>
+</div>
 
 ---
 
