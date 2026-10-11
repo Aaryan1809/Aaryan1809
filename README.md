@@ -3,7 +3,7 @@
 Breaks things. rebuild them. Occasionally questions everything at 3 AM.
 
 <p align="center">
-  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Aaryan1809)
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Aaryan1809&color=blue&style=flat-square)
   <img src="https://img.shields.io/github/followers/Aaryan1809?style=flat-square&color=blue&label=Followers" alt="Followers" />
 </p>
 
