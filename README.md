@@ -3,7 +3,7 @@
 Breaks things. rebuild them. Occasionally questions everything at 3 AM.
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aaryan1809" alt="Profile views" />
+  <img src="https://profile-counter.glitch.me/Aaryan1809/bg.svg" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Aaryan1809?style=flat-square&color=blue&label=Followers" alt="Followers" />
 </div>
 
